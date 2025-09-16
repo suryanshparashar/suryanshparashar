@@ -20,7 +20,7 @@ I'm a passionate B.Tech student at **VIT Bhopal University** who loves creating 
 const suryansh = {
     education: "B.Tech Student @ VIT Bhopal University",
     languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    frameworks: ["React", "Node.js", "Express.js"],
+    frameworks: ["React", "Node.js", "Express.js", "Tailwind"],
     tools: ["Git", "VS Code", "Postman"],
     databases: ["MongoDB"],
     specialization: "Full Stack Development",
