@@ -83,8 +83,8 @@ A browser-focused password generator designed for secure, privacy-first password
 - Zero-data-collection philosophy
 - Cross-browser publish-ready implementation style
 
+<!--
 ---
-
 ### 🎨 [prxis-suryansh](https://github.com/suryanshparashar/prxis-suryansh)
 **Language Composition:** JavaScript (93.8%), HTML (5%), CSS (1.2%)
 
@@ -93,7 +93,7 @@ A practical implementation project showcasing modern web development workflows a
 - Componentized frontend structure
 - Real-world UI engineering patterns
 - JavaScript-first implementation
-
+-->
 ---
 
 ## 📈 GitHub Stats
