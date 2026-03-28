@@ -1,110 +1,153 @@
 # Hi there, I'm Suryansh Parashar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;B.Tech+Student+%40+VIT+Bhopal;Full+Stack+Developer;Capstone+Project+Creator;Building+amazing+solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer+%7C+Final+Year+B.Tech+Student;Building+AI-powered+products+for+real-world+impact" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate B.Tech student at **VIT Bhopal University** who loves creating innovative solutions and exploring new technologies. My journey in tech is driven by curiosity and the desire to build meaningful projects that make a difference in education and beyond.
+I'm a final-year **B.Tech student at VIT Bhopal University**, passionate about building practical and scalable software products.  
+I enjoy solving real-world problems at the intersection of **education**, **AI**, and **analytics**.
 
-- 🎓 Final year B.Tech student at **VIT Bhopal University**
-- 🔭 Currently working on my **Capstone Project - QuizGuard**
-- 🌱 Specializing in **Full Stack Development**
-- 💡 Building solutions that bridge technology and education
-- ⚡ Fun fact: I believe every line of code tells a story and can transform lives
+- 🎓 Final Year B.Tech CSE (AIML) @ **VIT Bhopal University**
+- 🧠 Building AI-enabled full-stack platforms
+- 🌱 Deepening expertise in system design and intelligent workflows
+- 💡 Interested in impactful product engineering
+- ⚡ I believe great software should be useful, reliable, and human-centered
+
+---
 
 ## 🛠️ Tech Stack
 
 ```javascript
 const suryansh = {
-    education: "B.Tech Student @ VIT Bhopal University",
-    languages: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    frameworks: ["React", "Node.js", "Express.js", "Tailwind"],
-    tools: ["Git", "VS Code", "Postman"],
-    databases: ["MongoDB"],
-    specialization: "Full Stack Development",
-    currentProject: "QuizGuard - Capstone Project",
-    alwaysLearning: true
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
+  frontend: ["React", "Vite", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB"],
+  aiStack: ["LangChain", "LangGraph", "LangSmith (tracing)"],
+  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  domains: ["EdTech", "Artificial Intelligence", "Analytics"]
 };
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshparashar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshparashar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshparashar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+---
 
 ## 🎯 Featured Projects
 
-### 🧠 [QuizGuard - Capstone Project](https://github.com/suryanshparashar/Samsmriti)
-**Final Year B.Tech Project @ VIT Bhopal University**
+### 🧠 [QuizMitra: Multi-Agentic Academic Assessment Platform](https://github.com/suryanshparashar/QuizMitra)
+**Primary Language:** JavaScript (99.7%)
 
-An intelligent quiz generation and management system that revolutionizes academic assessment:
+QuizMitra is a full-stack, role-based academic assessment platform that automates the entire quiz lifecycle for higher education using AI orchestration.
 
-- 📚 **Smart Quiz Generation**: Automatically creates quizzes from faculty-uploaded study materials
-- ⏰ **Deadline Management**: Students can take quizzes within specified deadlines
-- 📊 **Comprehensive Reporting**: Generates detailed reports for faculty via web app and email
-- 🎨 **Role-Based Interface**: 
-  - 👨‍🏫 **Faculty**: Blue theme for content management and analytics
-  - 👨‍🎓 **Students**: Green theme for quiz-taking experience
-  - 👑 **Class Representative**: Gold theme for administrative functions
-- 📧 **Automated Notifications**: Email integration for seamless communication
+#### ✨ Core Capabilities
+- 📄 **AI Quiz Generation**
+  - PDF/material-based generation (document intelligence + retrieval flow)
+  - Topic/keyword-based generation
+- 🧩 **Mixed Question Types**
+  - MCQ, MSQ, True/False, One-word, Short Answer, Long Answer
+- ⚖️ **Hybrid Evaluation**
+  - Deterministic objective checking
+  - AI-assisted subjective scoring with feedback
+- 🧠 **Personalized Advisory**
+  - Strengths, weaknesses, recommendations, motivation, and roadmap guidance
+- 📊 **Role-Based Dashboards**
+  - Faculty: class performance trends, analytics, activity
+  - Student: attempts, progress, performance insights
+- 🔔 **Notification System**
+  - Event-driven notifications with mark-as-read interaction flows
 
-### 💼 [Portfolio](https://github.com/suryanshparashar/portfolio)
-My personal portfolio showcasing my journey as a developer, featuring modern design and responsive layouts.
+---
 
-### 📊 [Artha-Nirikshana](https://github.com/suryanshparashar/Artha-Nirikshana)
-A comprehensive financial monitoring and analysis tool that helps users track expenses, analyze spending patterns, and manage their financial health effectively.
+### 📊 [Artha Nirikshana](https://github.com/suryanshparashar/Artha-Nirikshana)
+**Language Composition:** JavaScript (91%), CSS (8.8%), HTML (0.2%)
 
-### 🎨 [Prxis Project](https://github.com/suryanshparashar/prxis-suryansh)
-An innovative project demonstrating practical implementation of modern development practices and cutting-edge technologies.
+A financial monitoring and analysis platform focused on helping users track expenses, understand spending behavior, and make better financial decisions.
 
-## 🏆 GitHub Trophies
+- Expense tracking and category-level breakdowns
+- Data-driven financial visibility
+- Clean, dashboard-oriented UI for practical usage
+
+---
+
+### 🛡️ [RakshaSutra: Password Generator Extension](https://github.com/suryanshparashar/RakshaSutra-Password-Generator)
+**Description:** *A Protective Formula for Strong Passwords*  
+**Language Composition:** CSS (36.7%), HTML (34.5%), TypeScript (28%), JavaScript (0.8%)
+
+A browser-focused password generator designed for secure, privacy-first password creation.
+
+- Easy Type mode + Max Security mode
+- Entropy-focused password generation
+- Zero-data-collection philosophy
+- Cross-browser publish-ready implementation style
+
+---
+
+### 🎨 [prxis-suryansh](https://github.com/suryanshparashar/prxis-suryansh)
+**Language Composition:** JavaScript (93.8%), HTML (5%), CSS (1.2%)
+
+A practical implementation project showcasing modern web development workflows and frontend-focused execution.
+
+- Componentized frontend structure
+- Real-world UI engineering patterns
+- JavaScript-first implementation
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryanshparashar&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshparashar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshparashar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshparashar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📈 Contribution Graph
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshparashar&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
+## 🏆 Highlights
+
+- 🎓 Built and shipped a production-oriented **Multi-Agentic Academic Assessment Platform (QuizMitra)** with full quiz lifecycle automation
+- 🤖 Implemented **multi-agent orchestration** for generation, evaluation, and advisory
+- 📊 Delivered analytics-first experiences for faculty and students
+- 🔐 Built a security-focused browser extension (**RakshaSutra**) centered on strong password generation
+
+---
 
 ## 🎓 Academic Journey
 
 <div align="center">
-  
-**🏛️ VIT Bhopal University**  
-*Bachelor of Technology - Final Year*
 
-**🎯 Capstone Achievement**: QuizGuard - Transforming Educational Assessment
+**🏛️ VIT Bhopal University**  
+*Bachelor of Technology — Final Year*
+
+Building practical systems that combine software engineering with AI for real educational impact.
 
 </div>
 
-## 🌐 Connect with Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshparashar-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://suryanshparashar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparashar2002@gmail.com)
 
 </div>
 
-## 💭 Quote
+---
+
+## 💭 Motto
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+**"Innovation in education through technology — one line of code at a time."** ✨
+
 </div>
 
 ---
@@ -114,9 +157,5 @@ An innovative project demonstrating practical implementation of modern developme
 </div>
 
 <div align="center">
-  
-**"Innovation in education through technology - one line of code at a time"** ✨
-
-*Thanks for visiting my profile! Currently crafting my future at VIT Bhopal University. Feel free to explore my repositories and connect!*
-
+  <sub>Thanks for visiting my profile — feel free to explore my repositories and connect! 🚀</sub>
 </div>
