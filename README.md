@@ -29,7 +29,7 @@ const suryansh = {
   database: ["MongoDB"],
   aiStack: ["LangChain", "LangGraph", "LangSmith (tracing)"],
   tools: ["Git", "GitHub", "Postman", "VS Code"],
-  domains: ["EdTech", "Artificial Intelligence", "Analytics"]
+  domains: ["EdTech", "FinTech", "Artificial Intelligence", "Analytics"]
 };
 ```
 
