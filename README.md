@@ -122,7 +122,7 @@ A practical implementation project showcasing modern web development workflows a
 <div align="center">
 
 **🏛️ VIT Bhopal University**  
-*Bachelor of Technology — Final Year*
+*Bachelor of Technology, Final Year*
 
 Building practical systems that combine software engineering with AI for real educational impact.
 
@@ -146,7 +146,7 @@ Building practical systems that combine software engineering with AI for real ed
 
 <div align="center">
 
-**"Innovation in education through technology — one line of code at a time."** ✨
+**"Innovation in education through technology, one line of code at a time."** ✨
 
 </div>
 
@@ -157,5 +157,5 @@ Building practical systems that combine software engineering with AI for real ed
 </div>
 
 <div align="center">
-  <sub>Thanks for visiting my profile — feel free to explore my repositories and connect! 🚀</sub>
+  <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect! 🚀</sub>
 </div>
