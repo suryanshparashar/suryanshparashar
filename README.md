@@ -1,161 +1,105 @@
-# Hi there, I'm Suryansh Parashar! 👋
+![Suryansh Parashar](https://suryanshparashar.com/github-banner.svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer+%7C+Final+Year+B.Tech+Student;Building+AI-powered+products+for+real-world+impact" alt="Typing SVG" />
-</div>
+<br/>
 
----
+I build AI-native products end-to-end, from the model 
+orchestration layer to the pixels users tap. I own the full 
+stack: architecture decisions, engineering, and deployment.
 
-## 🚀 About Me
+I care about latency budgets, clean abstractions, and shipping things people
+actually use. **If it can't make it to production, it doesn't count.**
 
-I'm a final-year **B.Tech student at VIT Bhopal University**, passionate about building practical and scalable software products.  
-I enjoy solving real-world problems at the intersection of **education**, **AI**, and **analytics**.
+<br/>
 
-- 🎓 Final Year B.Tech CSE (AIML) @ **VIT Bhopal University**
-- 🧠 Building AI-enabled full-stack platforms
-- 🌱 Deepening expertise in system design and intelligent workflows
-- 💡 Interested in impactful product engineering
-- ⚡ I believe great software should be useful, reliable, and human-centered
+## What I'm building.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+### [Samsmriti](https://samsmriti.com) &nbsp;`Live SaaS`
 
-```javascript
-const suryansh = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-  frontend: ["React", "Vite", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB"],
-  aiStack: ["LangChain", "LangGraph", "LangSmith (tracing)"],
-  tools: ["Git", "GitHub", "Postman", "VS Code"],
-  domains: ["EdTech", "FinTech", "Artificial Intelligence", "Analytics"]
-};
-```
+A GATE revision platform powered by a multi-agent pipeline. Generates
+adaptive study plans, GATE-perspective explanations, common mistake
+analysis, and quick-revision points, personalized per session.
 
----
+**Stack:** MongoDB · Express.js · React · Node.js · LangChain ·
+LangGraph · Pinecone · Razorpay
 
-## 🎯 Featured Projects
+🔗 [samsmriti.com](https://samsmriti.com)
 
-### 🧠 [QuizMitra: Multi-Agentic Academic Assessment Platform](https://github.com/suryanshparashar/QuizMitra)
-**Primary Language:** JavaScript (99.7%)
+</td>
+<td width="50%" valign="top">
 
-QuizMitra is a full-stack, role-based academic assessment platform that automates the entire quiz lifecycle for higher education using AI orchestration.
+### [QuizMitra](https://quizmitra.suryanshparashar.com)
 
-#### ✨ Core Capabilities
-- 📄 **AI Quiz Generation**
-  - PDF/material-based generation (document intelligence + retrieval flow)
-  - Topic/keyword-based generation
-- 🧩 **Mixed Question Types**
-  - MCQ, MSQ, True/False, One-word, Short Answer, Long Answer
-- ⚖️ **Hybrid Evaluation**
-  - Deterministic objective checking
-  - AI-assisted subjective scoring with feedback
-- 🧠 **Personalized Advisory**
-  - Strengths, weaknesses, recommendations, motivation, and roadmap guidance
-- 📊 **Role-Based Dashboards**
-  - Faculty: class performance trends, analytics, activity
-  - Student: attempts, progress, performance insights
-- 🔔 **Notification System**
-  - Event-driven notifications with mark-as-read interaction flows
+Auto-graded assessment platform with AI-driven feedback loops.
+Multi-agentic pipeline authors questions, evaluates responses, and
+rubric-scores submissions with explainable feedback for both students
+and instructors.
 
----
+**Stack:** MongoDB · Express.js · React · Node.js · Sarvam AI ·
+Google AI · Zoho OAuth2
 
-### 📊 [Artha Nirikshana](https://github.com/suryanshparashar/Artha-Nirikshana)
-**Language Composition:** JavaScript (91%), CSS (8.8%), HTML (0.2%)
+🔗 [quizmitra.suryanshparashar.com](https://quizmitra.suryanshparashar.com)
 
-A financial monitoring and analysis platform focused on helping users track expenses, understand spending behavior, and make better financial decisions.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Expense tracking and category-level breakdowns
-- Data-driven financial visibility
-- Clean, dashboard-oriented UI for practical usage
+### [Artha Nirikshana](https://artha-nirikshana.suryanshparashar.com)
 
----
+Full MERN budgeting application with JWT authentication, recurring
+transaction tracking, category analytics via MongoDB Aggregation
+Pipeline, and real-time dashboards built with Recharts.
 
-### 🛡️ [RakshaSutra: Password Generator Extension](https://github.com/suryanshparashar/RakshaSutra-Password-Generator)
-**Description:** *A Protective Formula for Strong Passwords*  
-**Language Composition:** CSS (36.7%), HTML (34.5%), TypeScript (28%), JavaScript (0.8%)
+**Stack:** MongoDB · Aggregation Pipeline · Express.js · React ·
+Node.js · Recharts · Zoho OAuth2 · Google OAuth2
 
-A browser-focused password generator designed for secure, privacy-first password creation.
+🔗 [artha-nirikshana.suryanshparashar.com](https://artha-nirikshana.suryanshparashar.com)
 
-- Easy Type mode + Max Security mode
-- Entropy-focused password generation
-- Zero-data-collection philosophy
-- Cross-browser publish-ready implementation style
+</td>
+<td width="50%" valign="top">
 
-<!--
----
-### 🎨 [prxis-suryansh](https://github.com/suryanshparashar/prxis-suryansh)
-**Language Composition:** JavaScript (93.8%), HTML (5%), CSS (1.2%)
+### [RakshaSutra](https://rakshasutra.suryanshparashar.com)
 
-A practical implementation project showcasing modern web development workflows and frontend-focused execution.
+Zero-trust browser extension generating cryptographically strong
+passwords with real-time entropy display and zero data collection.
+Two modes: syllable-based for memorability, random character-based
+for maximum security. Live on Firefox, Chrome, and Edge.
 
-- Componentized frontend structure
-- Real-world UI engineering patterns
-- JavaScript-first implementation
--->
----
+**Stack:** TypeScript · Vite · Web Crypto API · Manifest V3
 
-## 📈 GitHub Stats
+🔗 [rakshasutra.suryanshparashar.com](https://rakshasutra.suryanshparashar.com)
+&nbsp;·&nbsp; [GitHub](https://github.com/suryanshparashar/RakshaSutra-Password-Generator)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshparashar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshparashar&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshparashar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🏆 Highlights
+## The toolkit.
 
-- 🎓 Built and shipped a production-oriented **Multi-Agentic Academic Assessment Platform (QuizMitra)** with full quiz lifecycle automation
-- 🤖 Implemented **multi-agent orchestration** for generation, evaluation, and advisory
-- 📊 Delivered analytics-first experiences for faculty and students
-- 🔐 Built a security-focused browser extension (**RakshaSutra**) centered on strong password generation
+| Area | Stack |
+|:--|:--|
+| **Languages** | JavaScript · TypeScript · Python |
+| **Full-Stack** | React · Node.js · Express.js · MongoDB · Aggregation Pipeline · Recharts · Vite |
+| **AI / Agents** | LangChain · LangGraph · LangSmith · Pinecone · Sarvam AI · Google AI · RAG · Multi-agent Architecture |
+| **Integrations** | Razorpay · Google OAuth2 · Zoho OAuth2 · Web Crypto API · Manifest V3 · REST APIs |
+| **Dev Tools** | Git / GitHub · Vercel · Render · Postman · VS Code |
 
----
-
-## 🎓 Academic Journey
-
-<div align="center">
-
-**🏛️ VIT Bhopal University**  
-*Bachelor of Technology, Final Year*
-
-Building practical systems that combine software engineering with AI for real educational impact.
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshparashar-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://suryanshparashar.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparashar2002@gmail.com)
-
-</div>
-
----
-
-## 💭 Motto
-
-<div align="center">
-
-**"Innovation in education through technology, one line of code at a time."** ✨
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryanshparashar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect! 🚀</sub>
+[suryanshparashar.com](https://suryanshparashar.com) &nbsp;·&nbsp;
+[LinkedIn](https://suryanshparashar.com/linkedin) &nbsp;·&nbsp;
+[sparashar2002@gmail.com](mailto:sparashar2002@gmail.com)
+
+*Available for select work · 2026*
+
 </div>
