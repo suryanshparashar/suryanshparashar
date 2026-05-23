@@ -100,6 +100,6 @@ for maximum security. Live on Firefox, Chrome, and Edge.
 [LinkedIn](https://suryanshparashar.com/linkedin) &nbsp;·&nbsp;
 [sparashar2002@gmail.com](mailto:sparashar2002@gmail.com)
 
-*Available for select work · 2026*
+*available for select work · 2026*
 
 </div>
